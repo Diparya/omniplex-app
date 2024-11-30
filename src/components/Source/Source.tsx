@@ -54,11 +54,11 @@ const Source = (props: Props) => {
           </div>
         )}
 
-        {props.mode === "weather" && (
+        {/* {props.mode === "weather" && (
           <div className={styles.sourceRow}>
             <Weather weatherResults={props.weatherResults} />
           </div>
-        )}
+        )} */}
 
         {props.mode === "dictionary" && (
           <div className={styles.sourceRow}>
