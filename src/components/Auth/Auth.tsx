@@ -79,7 +79,7 @@ const Auth = ({ isOpen, onClose }: Props) => {
 
               {/* Terms */}
               <p className={styles.terms}>
-                By continuing, you agree to Anthropic's{" "}
+                By continuing, you agree to Anthropics{" "}
                 <a href="#" className={styles.link}>
                   Terms and Privacy Policy
                 </a>
